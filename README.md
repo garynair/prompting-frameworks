@@ -1,3 +1,5 @@
+![Prompting Frameworks](docs/banner.png)
+
 # Prompting Frameworks
 
 Four Claude/Cowork skills for structuring and QA'ing prompts, built around GRC and audit-facing
